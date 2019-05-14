@@ -1,4 +1,4 @@
-## Final project for CHEME 7770
+## Final Project for CHEME 7770
 Code is based on Michael Vilkhovoy's model found at https://github.com/varnerlab/Sequence-Specific-FBA-CFPS-Publication-Code
 
 To run the code, you will need to have Julia 1.0 installed. (It may work on an older version, but I have not tried it myself.)
