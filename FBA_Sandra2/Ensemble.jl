@@ -93,4 +93,5 @@ ylabel("Reaction Flux (mM/hr)")
 legend()
 savefig("heroin_dep1.png")
 
+println("Max fluxes (mM/hr): heroin uptake, heroin degradation, morphine degradation,FMN:NADPH redox, bioluminescence")
 return (her_up_max,her_deg_max,mor_deg_max,fmn_max,lux_max)
